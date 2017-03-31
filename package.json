@@ -1,0 +1,24 @@
+{
+  "name": "GitterTest",
+  "version": "1.0.0",
+  "description": "Gitter client TestTask",
+  "main": "index.js",
+  "author": "Dmytro Bondarenko",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "eslint": "^3.18.0",
+    "eslint-loader": "^1.7.1",
+    "webpack": "1.14.0"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
