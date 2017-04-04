@@ -13,19 +13,20 @@
     "css-loader": "^0.28.0",
     "eslint": "^3.18.0",
     "eslint-loader": "^1.7.1",
+    "jquery": "^3.2.1",
     "node-sass": "^4.5.2",
+    "react": "^15.4.2",
     "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
     "react-router": "^4.0.0",
     "sass-loader": "^6.0.3",
     "style-loader": "^0.16.1",
-    "webpack": "1.14.0"
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
   },
   "scripts": {
-    "webpack": "webpack"
+    "webpack": "webpack",
+    "wds": "webpack-dev-server"
   },
-  "dependencies": {
-    "jquery": "^3.2.1",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
-  }
+  "dependencies": {}
 }
